@@ -1,7 +1,7 @@
 # Project 2: Elevator Kernel Module
 # COP4610: Operating Systems
 
-# Group Members
+## Group Members
 - Kenny La
 
 # Division of Labor
