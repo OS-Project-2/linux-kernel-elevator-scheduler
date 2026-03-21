@@ -4,10 +4,10 @@
 ## Group Members
 - Kenny La
 
-# Division of Labor
+## Division of Labor
 - Kenny La - all parts
 
-# File Listing
+## File Listing
 - part1/empty.c
 - part1/part1.c
 - part1/empty.trace
@@ -16,9 +16,9 @@
 - part3/syscalls.c
 - part3/src/elevator.c
 
-# How to Compile and Run
+## How to Compile and Run
 
-# Part 1
+### Part 1
 ```bash
 cd part1
 make
@@ -26,7 +26,7 @@ strace -o empty.trace ./empty
 strace -o part1.trace ./part1
 ```
 
-# Part 2
+### Part 2
 ```bash
 cd part2
 make
@@ -35,7 +35,7 @@ cat /proc/timer
 sudo rmmod my_timer
 ```
 
-# Part 3
+### Part 3
 ```bash
 cd part3
 make
